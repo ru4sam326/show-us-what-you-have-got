@@ -51,7 +51,7 @@ Submit a pull request to this repository before the stipulated due date for the 
 Include at a minimum one README file describing your solution along with detailed instructions on how to run it. You can have as many documentation files as you want. Use Markdown for the documentation
 
 # Important
-Unless you submit a pull request, we cannot consider your assignment for evaluation, hence make sure that you do submit a pull request. Also make sure that you submit only one pull request and only after you are fully ready to share your assignment with us
+Unless you submit a pull request, we cannot consider your assignment for evaluation, hence make sure that you do submit a pull request. Also ensure that you submit only one pull request and that too only after you are fully ready to share your assignment with us.
 
 We really look forward to getting some bright minds who can show us all their creativity and aptitude through this assignment.
 
