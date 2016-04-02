@@ -39,8 +39,10 @@ Below are listed the functional requirements that the solution should support. W
 ## Desirable
 - Responsive UI using Bootstrap
 - AngularJS as the JavaScript framework
+- Multi-module Maven project
 - Single page web application
 - Storage of session information in the browser's local storage
+- Simple and smooth user experience
  
 # How to submit the assignment
 ## Step 1
