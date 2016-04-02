@@ -7,8 +7,10 @@ Also note that though you obviously can take the easy route and search online fo
 Use this opportunity to show us what you have got and that you have what it takes to join us as we build a wonderful product together.
 
 # Functional Requirements
+Below are listed the functional requirements that the solution should support. Wherever in doubt, make reasonable assumptions and move forward but please do document those assumptions as well so that we know why you made them.
+
 ## Must have features
-- User registration and approval by administrator
+- Member registration and approval by librarian
 - User login and access based on role (Librarian / Member)
 - Librarian access to register books and catalogue them
 - Searching for desired books by ISBN, Title, Author, etc.
